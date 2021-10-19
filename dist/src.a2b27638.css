@@ -1,0 +1,15 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  color: red;
+  cursor: pointer;
+  background-color: slateblue;
+}
+h1:hover {
+  color: black;
+}
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
